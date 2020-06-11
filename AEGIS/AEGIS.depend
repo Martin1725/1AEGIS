@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1591749502 source:c:\users\domin\onedrive\escritorio\tino\a segunda parte tup\laboratorio2\1aegis\aegis\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"submenues.h"
+
+1585864685 c:\users\domin\onedrive\escritorio\tino\a segunda parte tup\laboratorio2\1aegis\aegis\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1591749565 c:\users\domin\onedrive\escritorio\tino\a segunda parte tup\laboratorio2\1aegis\aegis\submenues.h
+
