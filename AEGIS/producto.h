@@ -14,9 +14,8 @@ private:
     bool Estado;
 public:
     //metodos;
-
     void cargar();
-    void mostrar():
+    void mostrar();
         const char * getCodigoproducto(){return Codigoproducto;}
         const char * getCodigoproveedor(){return Codigoproveedor;}
         const char * getNombreItem(){return NombreItem;}
